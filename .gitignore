@@ -1,0 +1,50 @@
+# VS Code settings
+.vscode/
+
+# Build output
+bin/
+obj/
+build/
+dist/
+out/
+
+# Dependency directories
+node_modules/
+packages/
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+
+# IDE files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Python
+__pycache__/
+*.pyc
+
+# Unity (if applicable)
+Library/
+Temp/
+*.unityproj
+*.pidb
+*.sln
+*.user
+*.unitypackage
+
+# Unreal Engine (if applicable)
+Saved/
+Intermediate/
+
+# Godot (if applicable)
+.import/
+.export/
