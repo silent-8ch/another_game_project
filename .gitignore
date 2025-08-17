@@ -1,4 +1,22 @@
-# VS Code settings
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Saved/
+Intermediate/
+*.sln
+*.suo
+*.user
+*.userosscache
+*.unityproj
+*.unitypackage
+*.pidb
+
+# Asset files (optional, only if you want to ignore all assets)
+# *.uasset
+# *.umap
+# *.fbx
+
+# VS Code
 .vscode/
 
 # Build output
@@ -22,29 +40,10 @@ Desktop.ini
 *.tmp
 *.temp
 
-# IDE files
-*.suo
-*.user
-*.userosscache
-*.sln.docstates
-
 # Python
 __pycache__/
 *.pyc
 
-# Unity (if applicable)
-Library/
-Temp/
-*.unityproj
-*.pidb
-*.sln
-*.user
-*.unitypackage
-
-# Unreal Engine (if applicable)
-Saved/
-Intermediate/
-
-# Godot (if applicable)
+# Godot
 .import/
 .export/
